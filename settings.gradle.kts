@@ -1,0 +1,1 @@
+rootProject.name = "com.siifii.kotlin-ktor-playout"
